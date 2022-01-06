@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.image-section{
+    margin-top: 50px;
+}
+.img-style{
+    max-height: calc(100vh - 50px);
+}
+.space-right{
+    padding-right: 50px;
+}
+.space-left{
+    padding-left: 50px;
+}
+
+.passage-section{
+    margin-top: 70px !important;
+}
+.below-part{
+    padding: 0 0 0 20px;
+    font-family: sans-serif;
+    
+}
+.footer-section{
+    margin-bottom: 100px;
+}
